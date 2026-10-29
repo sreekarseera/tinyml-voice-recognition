@@ -1,5 +1,5 @@
 #pragma once
-#include "features.h"
+#include "voice_features.h"
 #include <trained_model.h>
 namespace voice {
 inline std::array<float,Classes> scores(const std::array<float,Features>& features) {

@@ -1,7 +1,7 @@
 // New MFCC/linear baseline, not a reconstruction of the reported Edge Impulse CNN.
 #include <Arduino.h>
 #include <driver/i2s.h>
-#include "features.h"
+#include "voice_features.h"
 #if !__has_include("trained_model.h")
 #error "Train a model with tools/train.py first. See README.md."
 #endif
