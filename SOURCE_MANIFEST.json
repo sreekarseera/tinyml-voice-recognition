@@ -1,0 +1,17 @@
+{
+  "prepared": "2026-10-29",
+  "files": [
+    {
+      "archive": "TinyML energy per Inference.zip",
+      "member": "TinyML energy per Inference/Firmware/inference_code/inference_code.ino",
+      "path": "originals/Firmware/inference_code/inference_code.ino",
+      "sha256": "ff81519c5e1036ef54202524b2842b6522c3b0a910e9f2c61d42415b184309ad"
+    },
+    {
+      "archive": "TinyML energy per Inference.zip",
+      "member": "TinyML energy per Inference/Firmware/Mic_Test/Mic_Test.ino",
+      "path": "originals/Firmware/Mic_Test/Mic_Test.ino",
+      "sha256": "6639311a2b374016b1076e27d00298322998bb163f21b1e3fbb71ceefc4d9fab"
+    }
+  ]
+}
